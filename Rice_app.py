@@ -14,9 +14,9 @@ from PIL import Image
 
 
 #MODEL_PATH = "model//Alzheimer_Cassifier.pkl"
-MODEL_PATH = 'model/MyRiceModel_h5'
+MODEL_PATH = 'MyRiceModel_h5'
 #LABELS_PATH = "model//model_classes.txt"
-LABELS_PATH = 'model/model_classes.txt'
+LABELS_PATH = 'model_classes.txt'
 
 
 #ส่วนอัพโหลดรูป
